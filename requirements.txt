@@ -1,0 +1,13 @@
+aiohttp==2.3.10
+aiosocks==0.2.5
+aiovk==2.2.1
+appdirs==1.4.3
+async-timeout==2.0.1
+chardet==3.0.4
+idna==2.6
+multidict==4.1.0
+packaging==16.8
+pyparsing==2.2.0
+six==1.10.0
+vk-api==11.0.0
+yarl==1.1.1
